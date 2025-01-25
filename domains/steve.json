@@ -1,0 +1,12 @@
+{
+  "description": "Steve personal links website",
+  "owner": {
+    "username": "stevewalson"
+  },
+  "record": {
+    "A": [
+      "66.33.60.67",
+      "76.76.21.98"
+    ]
+  }
+}
